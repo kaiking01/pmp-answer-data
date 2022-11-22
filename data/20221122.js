@@ -30,7 +30,8 @@ window.allData = `
 21. 雪落无痕 B （AD） CBB   BDDCB
 22. 黄雅君 B(AD)CDD DDCBA
 23. 李勇发 B(AD)CCD  CDCCA
-
+24. 阿狸 D（AD）CDDBDDAC
+25. 李凯旋 B (AD)ACD BDCCA
 `
 // 敏捷实践指南
 /**
