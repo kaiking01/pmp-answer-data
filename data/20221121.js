@@ -35,7 +35,7 @@ window.allData = `
 26. 汤燕婷 BBADD CACAB
 27. 洪俊鑫 BBBDB CACAB
 28. 李凯旋 BBBDC CACAB
-
+29. 陈安然 BABDB AABAB
 `
 // 敏捷实践指南
 /**
