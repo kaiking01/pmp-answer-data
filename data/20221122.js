@@ -32,6 +32,9 @@ window.allData = `
 23. 李勇发 B(AD)CCD  CDCCA
 24. 阿狸 D（AD）CDDBDDAC
 25. 李凯旋 B (AD)ACD BDCCA
+26. 刘思婷 B(AD)CBD BDCBA
+27. 陈安然 B(AD) CCD BDABA
+
 `
 // 敏捷实践指南
 /**
